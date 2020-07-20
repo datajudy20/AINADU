@@ -11,10 +11,10 @@
 #
 
 * **0_final_front_face_train_1.py , 0_final_right_face_train_2.py , 0_final_left_face_train_3.py**  
-: By executing each file, you can train a person's left, right, and front faces using a webcam.
+: By executing each file, you can train a person's front, right, and left faces using a webcam.
 
 * **0_final_3.py**  
-: When you run this file, the face is recognized in the video, and the face that has not been trained in advance is automatically mosaiced.
+: the face is recognized in the video, and the face that has not been trained in advance is mosaiced automatically.
 
 * **auto_blur_video.py**  
 : Mosaics everyone's faces in a given video. It also supports scene movement, pause and playback functions.
